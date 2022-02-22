@@ -1,0 +1,19 @@
+.header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.header__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.logo {
+  fill: var(--main-bg-color);
+}

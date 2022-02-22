@@ -1,5 +1,16 @@
-img {
-  display: block;
-  width: 100%;
-  height: auto;
+body {
+  font-family: var(--main-text-font);
+}
+
+.pre-title {
+  font-weight: 600;
+  font-size: var(--pre-title-fz);
+  line-height: 1.36;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.text {
+  line-height: 1.62;
+  letter-spacing: 0.02em;
 }

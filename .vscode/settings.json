@@ -19,5 +19,9 @@
     "liveSassCompile.settings.autoprefix": [
         "> 1%",
         "last 2 versions"
+    ],
+    "cSpell.language": "en,ru,en-GB,en-US,ru-RU,uk",
+    "cSpell.words": [
+        "Kyiv"
     ]
 }

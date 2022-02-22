@@ -1,8 +1,10 @@
 @import './base/vars';
+@import './base/reset';
 @import './base/common';
 
+@import './utils/container';
+
 @import './components/mobile-menu';
-@import './components/hero-carousel';
 
 @import './layout/header';
 @import './layout/hero';
