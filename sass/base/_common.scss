@@ -3,6 +3,8 @@ body {
 }
 
 .pre-title {
+  display: flex;
+  align-items: center;
   font-weight: 600;
   font-size: var(--pre-title-fz);
   line-height: 1.36;
